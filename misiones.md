@@ -1,3 +1,4 @@
-#Misiones
+# Misiones
 
-* Investigar los pkanes del doc doom
+*Investigar los pkanes del doc doom
+*Capturar a Red Skull
